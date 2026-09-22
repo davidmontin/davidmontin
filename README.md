@@ -60,15 +60,6 @@ Estou no mercado ativamente em busca de vagas de:
 
 ---
 
-## 📊 Estatísticas de Código
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidmontin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmontin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Vamos trocar ideia?
 
 <p align="left">
